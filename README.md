@@ -14,7 +14,7 @@ Este es un proyecto de una calculadora básica en **Java**, ejecutada por consol
 ## 📌 Uso  
 1️⃣ Clona el repositorio:
 ```
-git clone https://github.com/alexcasdiaz/Calculadora.git
+git clone https://github.com/alejandrocasdiaz/Calculadora.git
 ```
 2️⃣ Abre el proyecto en un IDE compatible.<br>
 3️⃣ Compila y ejecuta el archivo calculadora.java.
